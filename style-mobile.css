@@ -30,25 +30,30 @@
       .step {
             font-family: 'Jura', sans-serif !important;
             font-weight: bold;
-            margin-bottom: 50px;
             display:inline;
+            margin-top: 150px !important;
+
       }
 
       .right-tab {
             border-top: 4px solid rgb(135, 135, 145);
-            margin-left: 32vw;
-            margin-bottom: 8vw;
-            margin-top: -70px;
-            width: 60vw;
+            margin-left: 22vw;
+            margin-bottom: 20vw;
+            margin-top: -20vw;
+            width: 70vw;
+            font-size: 4vw;
+
       }
 
       .left-tab {
             border-top: 4px solid rgb(135, 135, 145);
-            margin-right: 32vw;
-            margin-bottom: 8vw;
-            margin-top: -70px;
+            margin-right: 22vw;
+            margin-bottom: 20vw;
+            margin-top: -20vw;
             margin-left: 0;
-            width: 60vw;
+            width: 70vw;
+            font-size: 4vw;
+
       }
 
 
@@ -58,10 +63,10 @@
             height: 80%;
             width: 80%;
             text-align: center;
-            line-height: 22vw;
+            line-height: 13vw;
             margin: auto;
             /* margin-top: ; */
-            font-size: xx-large;
+            font-size: 7vw;
             font-weight: bolder;
             color: rgb(247, 185, 238);
 
@@ -77,8 +82,8 @@
             padding: 3px;
             border: 6px solid rgb(135, 135, 145);
             border-radius: 50%;
-            width: 26vw;
-            height: 26vw;
+            width: 18vw;
+            height: 18vw;
             display: flex;
             justify-content: center;
             align-items: center;
